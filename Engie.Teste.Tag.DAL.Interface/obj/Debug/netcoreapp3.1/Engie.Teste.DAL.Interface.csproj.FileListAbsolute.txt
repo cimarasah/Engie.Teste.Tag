@@ -1,0 +1,15 @@
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\bin\Debug\netcoreapp3.1\Engie.Teste.Dtos.exe
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\bin\Debug\netcoreapp3.1\Engie.Teste.DAL.Interface.exe
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\bin\Debug\netcoreapp3.1\Engie.Teste.DAL.Interface.deps.json
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\bin\Debug\netcoreapp3.1\Engie.Teste.DAL.Interface.runtimeconfig.json
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\bin\Debug\netcoreapp3.1\Engie.Teste.DAL.Interface.runtimeconfig.dev.json
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\bin\Debug\netcoreapp3.1\Engie.Teste.DAL.Interface.dll
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\bin\Debug\netcoreapp3.1\Engie.Teste.DAL.Interface.pdb
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\bin\Debug\netcoreapp3.1\Engie.Teste.Dtos.dll
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\bin\Debug\netcoreapp3.1\Engie.Teste.Dtos.pdb
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\obj\Debug\netcoreapp3.1\Engie.Teste.DAL.Interface.csprojAssemblyReference.cache
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\obj\Debug\netcoreapp3.1\Engie.Teste.DAL.Interface.AssemblyInfoInputs.cache
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\obj\Debug\netcoreapp3.1\Engie.Teste.DAL.Interface.AssemblyInfo.cs
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\obj\Debug\netcoreapp3.1\Engie.Teste.DAL.Interface.csproj.CopyComplete
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\obj\Debug\netcoreapp3.1\Engie.Teste.DAL.Interface.dll
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Tag.DAL.Interface\obj\Debug\netcoreapp3.1\Engie.Teste.DAL.Interface.pdb

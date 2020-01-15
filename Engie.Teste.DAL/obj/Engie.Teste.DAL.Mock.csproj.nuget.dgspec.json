@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.DAL\\Engie.Teste.DAL.Mock.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.DAL\\Engie.Teste.DAL.Mock.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.DAL\\Engie.Teste.DAL.Mock.csproj",
+        "projectName": "Engie.Teste.DAL.Mock",
+        "projectPath": "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.DAL\\Engie.Teste.DAL.Mock.csproj",
+        "packagesPath": "C:\\Users\\cimara.oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cimara.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexus.amcom.com.br/repository/NuGet-AMcom/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.Tag.DAL.Interface\\Engie.Teste.DAL.Interface.csproj": {
+                "projectPath": "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.Tag.DAL.Interface\\Engie.Teste.DAL.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.Dtos\\Engie.Teste.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.Dtos\\Engie.Teste.Dtos.csproj",
+        "projectName": "Engie.Teste.Dtos",
+        "projectPath": "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.Dtos\\Engie.Teste.Dtos.csproj",
+        "packagesPath": "C:\\Users\\cimara.oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cimara.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexus.amcom.com.br/repository/NuGet-AMcom/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.Tag.DAL.Interface\\Engie.Teste.DAL.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.Tag.DAL.Interface\\Engie.Teste.DAL.Interface.csproj",
+        "projectName": "Engie.Teste.DAL.Interface",
+        "projectPath": "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.Tag.DAL.Interface\\Engie.Teste.DAL.Interface.csproj",
+        "packagesPath": "C:\\Users\\cimara.oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.Tag.DAL.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cimara.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexus.amcom.com.br/repository/NuGet-AMcom/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.Dtos\\Engie.Teste.Dtos.csproj": {
+                "projectPath": "C:\\Projetos\\Engie\\Engie.Teste.Tag\\Engie.Teste.Dtos\\Engie.Teste.Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

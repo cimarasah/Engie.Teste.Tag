@@ -1,0 +1,11 @@
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Dtos\bin\Debug\netcoreapp3.1\Engie.Teste.Dtos.exe
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Dtos\bin\Debug\netcoreapp3.1\Engie.Teste.Dtos.deps.json
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Dtos\bin\Debug\netcoreapp3.1\Engie.Teste.Dtos.runtimeconfig.json
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Dtos\bin\Debug\netcoreapp3.1\Engie.Teste.Dtos.runtimeconfig.dev.json
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Dtos\bin\Debug\netcoreapp3.1\Engie.Teste.Dtos.dll
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Dtos\bin\Debug\netcoreapp3.1\Engie.Teste.Dtos.pdb
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Dtos\obj\Debug\netcoreapp3.1\Engie.Teste.Dtos.AssemblyInfoInputs.cache
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Dtos\obj\Debug\netcoreapp3.1\Engie.Teste.Dtos.AssemblyInfo.cs
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Dtos\obj\Debug\netcoreapp3.1\Engie.Teste.Dtos.dll
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Dtos\obj\Debug\netcoreapp3.1\Engie.Teste.Dtos.pdb
+C:\Projetos\Engie\Engie.Teste.Tag\Engie.Teste.Dtos\obj\Debug\netcoreapp3.1\Engie.Teste.Dtos.csprojAssemblyReference.cache

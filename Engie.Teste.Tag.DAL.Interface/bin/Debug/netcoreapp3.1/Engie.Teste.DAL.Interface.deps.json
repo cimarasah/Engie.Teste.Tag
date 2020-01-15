@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Engie.Teste.DAL.Interface/1.0.0": {
+        "dependencies": {
+          "Engie.Teste.Dtos": "1.0.0"
+        },
+        "runtime": {
+          "Engie.Teste.DAL.Interface.dll": {}
+        }
+      },
+      "Engie.Teste.Dtos/1.0.0": {
+        "runtime": {
+          "Engie.Teste.Dtos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Engie.Teste.DAL.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Engie.Teste.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
